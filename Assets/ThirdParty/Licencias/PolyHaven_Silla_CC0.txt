@@ -1,0 +1,10 @@
+Plastic Monobloc Chair 01 - Poly Haven
+https://polyhaven.com/a/plastic_monobloc_chair_01
+Licencia: CC0 1.0 Universal (dominio público) - https://creativecommons.org/publicdomain/zero/1.0/
+Usado: modelo de la silla (Resources/Models/chair.bytes, Art/Models/chair.obj) y sus texturas (Resources/Textures/chair_*).
+Obtenido del repositorio godotengine/godot-demo-projects (loading/runtime_save_load/examples/3d_scenes/gltf),
+que lo incluye indicando autoría de Poly Haven y licencia CC0.
+
+Fabric Pattern 07 - Poly Haven (CC0) - https://polyhaven.com/a/fabric_pattern_07
+Usado: relieve de tela (mapa de normales) del uniforme del vigilante (Resources/Textures/fabric_normal.png).
+Obtenido del repositorio godotengine/godot-demo-projects (3d/soft_body_physics/textures/polyhaven).

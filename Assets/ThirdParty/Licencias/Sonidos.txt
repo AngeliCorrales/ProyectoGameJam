@@ -1,0 +1,24 @@
+SONIDOS DEL JUEGO (aportados por el autor del juego)
+====================================================
+
+Freesound.org — revisa la licencia exacta en cada enlace. Si es CC-BY, este crédito cumple la atribución.
+  amb_drone.wav     <- "Deep bass drone with an airy floating atmosphere" de bassimat ......... https://freesound.org/s/875154/
+  step_1..4.wav     <- "pasos_dentro" de sainthh .............................................. https://freesound.org/s/396854/
+  door_open.wav     <- "puerta2" de malucien .................................................. https://freesound.org/s/378474/
+  clock_loop.wav    <- "reloj" de linaperalta ................................................. https://freesound.org/s/531777/
+  mario_voice.wav   <- "murmullos1" de estebanolarte1999 ....................................... https://freesound.org/s/391264/
+  anomaly_cue.wav   <- "susurros 1" de antoniakikiki .......................................... https://freesound.org/s/624582/
+  light_flicker.wav <- "Sonido de luz neón parpadeando" de trigius01 ........................... https://freesound.org/s/674567/
+  static.wav        <- "Reverbera x1-2 electric noise complex pitch impulse" de reverbera ....... https://freesound.org/s/850983/
+  squeak.wav        <- "graznido 2" de rafash1306 ............................................. https://freesound.org/s/404238/
+
+Pixabay (Licencia de contenido de Pixabay: uso gratuito, sin atribución obligatoria) — https://pixabay.com/sound-effects/
+  menu_music.wav    <- "Cinematic Paranormal Horror" de Universfield
+  game_music.wav    <- "Dark Space Ambient" de Tunetank
+  heartbeat.wav     <- "Heartbeat 02" de brvhrtz
+  report_wrong.wav  <- "Error FX 4" de dbsound
+  jumpscare.wav     <- "Jump scare sound 2" (freesound_community)
+  amb_hum.wav       <- "Room tone cocina" (freesound_community)
+
+Todos los recortes, bucles y ajustes de volumen se hicieron para este juego.
+El resto de sonidos (report_ok, door_locked, door_unlock, light_off, lose, win, ui_click, ui_hover) son sintetizados para el juego.
