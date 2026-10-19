@@ -11,7 +11,6 @@ public class WallClock : MonoBehaviour
 
     private double seconds = 3 * 3600;     // 03:00:00
 
-
     private void Update()
     {
         seconds += reverse ? -Time.deltaTime * reverseSpeed : Time.deltaTime;
@@ -36,8 +35,9 @@ public class WallClock : MonoBehaviour
             {
                 tickSource.clip = GameAssets.Clip("clock_loop");
                 tickSource.loop = true;
-                tickSource.volume = 1f;
             }
+            // El audio clock_loop.wav ya viene al 20 % de su volumen original.
+            tickSource.volume = 1f;
             if (tickSource.clip != null && !tickSource.isPlaying) tickSource.Play();
             tickSource.pitch = reverse ? -1.25f : 1f;
         }
